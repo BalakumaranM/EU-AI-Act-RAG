@@ -1,0 +1,2011 @@
+{
+  "1": {
+    "article_title": "Subject matter`",
+    "linked_recitals": [
+      {
+        "recital_num": 2,
+        "reason": "Explains the overall purpose of the Regulation in terms of Union values, protection of natural persons and the environment, and boosting innovation."
+      },
+      {
+        "recital_num": 47,
+        "reason": "Justifies the need for the Regulation by highlighting the adverse impacts of AI systems on health and safety, and the importance of preventing harmful effects."
+      },
+      {
+        "recital_num": 52,
+        "reason": "Explains the criteria for classifying stand-alone AI systems as high-risk, which underpins the requirement for specific obligations in Article 1(2)(c)."
+      },
+      {
+        "recital_num": 82,
+        "reason": "Provides rationale for requiring authorized representatives for third-country providers to ensure effective enforcement of harmonised rules for placing on the market."
+      },
+      {
+        "recital_num": 114,
+        "reason": "Explains the need for specific obligations for general-purpose AI models presenting systemic risks, as referenced in Article 1(2)(e)."
+      },
+      {
+        "recital_num": 138,
+        "reason": "Justifies innovation measures such as regulatory sandboxes to promote responsible AI development and testing, supporting Article 1(2)(g)."
+      },
+      {
+        "recital_num": 143,
+        "reason": "Explains the focus on SMEs and start-ups in innovation support measures, as specified in Article 1(2)(g)."
+      },
+      {
+        "recital_num": 149,
+        "reason": "Establishes the Board as part of the governance structure for harmonised implementation and enforcement, aligning with Article 1(2)(f)."
+      },
+      {
+        "recital_num": 174,
+        "reason": "Mandates regular evaluation and review by the Commission to ensure the Regulation remains effective and fit-for-purpose, supporting governance under Article 1(2)(f)."
+      },
+      {
+        "recital_num": 180,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      }
+    ]
+  },
+  "2": {
+    "article_title": "Scope",
+    "linked_recitals": [
+      {
+        "recital_num": 6,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      },
+      {
+        "recital_num": 9,
+        "reason": "It references the New Legislative Framework, justifying the limited application of certain provisions to high-risk AI systems under existing Union harmonisation legislation as per Article 2(2)."
+      },
+      {
+        "recital_num": 14,
+        "reason": "It confirms that Union data protection laws apply alongside this Regulation, which is explicitly stated in Article 2(7)."
+      },
+      {
+        "recital_num": 22,
+        "reason": "It explains the rationale for including third-country providers whose AI system's output is used in the Union, directly supporting Article 2(1)(c)."
+      },
+      {
+        "recital_num": 59,
+        "reason": "It highlights specific risks from AI use in law enforcement, underpinning the exclusion for national security purposes in Article 2(3)."
+      },
+      {
+        "recital_num": 84,
+        "reason": "It clarifies when distributors, importers, and manufacturers are deemed providers, which is fundamental to the scope defined in Article 2(1)(d) and (e)."
+      },
+      {
+        "recital_num": 97,
+        "reason": "It defines general-purpose AI models, a key concept central to the coverage of providers in Article 2(1)(a)."
+      },
+      {
+        "recital_num": 121,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      }
+    ]
+  },
+  "3": {
+    "article_title": "Definitions",
+    "linked_recitals": [
+      {
+        "recital_num": 53,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      },
+      {
+        "recital_num": 74,
+        "reason": "Specifies that performance metrics should be declared in instructions for use, providing rationale for the definition and purpose of 'instructions for use' in Article 3(15)."
+      },
+      {
+        "recital_num": 84,
+        "reason": "Explains when a distributor should be considered a provider, directly clarifying the scope of the 'provider' definition in Article 3(3)."
+      },
+      {
+        "recital_num": 100,
+        "reason": "Defines when an AI system is considered general-purpose, which informs the definitions of 'provider' and 'importer' that include general-purpose AI models."
+      },
+      {
+        "recital_num": 128,
+        "reason": "Clarifies that substantial modifications result in a new AI system, directly impacting the interpretation of 'placing on the market' and 'putting into service' in Article 3(9) and (11)."
+      }
+    ]
+  },
+  "4": {
+    "article_title": "AI literacy",
+    "linked_recitals": [
+      {
+        "recital_num": 24,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      },
+      {
+        "recital_num": 53,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      },
+      {
+        "recital_num": 94,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      },
+      {
+        "recital_num": 104,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      },
+      {
+        "recital_num": 106,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      },
+      {
+        "recital_num": 140,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      }
+    ]
+  },
+  "5": {
+    "article_title": "Prohibited AI practices",
+    "linked_recitals": [
+      {
+        "recital_num": 19,
+        "reason": "It defines 'publicly accessible space' as any physical space accessible to an undetermined number of persons, clarifying the scope of the prohibition on real-time biometric identification under point (h)."
+      },
+      {
+        "recital_num": 29,
+        "reason": "It explains that AI-enabled manipulative techniques can cause significant harm by subverting autonomy and decision-making, justifying the prohibition of subliminal and manipulative practices under points (a) and (b)."
+      },
+      {
+        "recital_num": 35,
+        "reason": "It requires express authorization for real-time biometric identification in public spaces for law enforcement, thereby justifying its prohibition without such authorization under point (h)."
+      },
+      {
+        "recital_num": 40,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      },
+      {
+        "recital_num": 41,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      },
+      {
+        "recital_num": 59,
+        "reason": "It highlights the significant power imbalance and risks to fundamental rights in law enforcement AI uses, justifying the prohibition on criminal risk assessment systems under point (d)."
+      },
+      {
+        "recital_num": 176,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      }
+    ]
+  },
+  "6": {
+    "article_title": "Classification rules for high-risk AI systems",
+    "linked_recitals": [
+      {
+        "recital_num": 6,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      },
+      {
+        "recital_num": 49,
+        "reason": "Explains the specific Union harmonisation legislation listed in Annex I that triggers high-risk classification under Article 6(1)(a)."
+      },
+      {
+        "recital_num": 53,
+        "reason": "Provides the rationale for the derogation conditions in Article 6(3), clarifying when an Annex III AI system does not pose a significant risk."
+      },
+      {
+        "recital_num": 55,
+        "reason": "Justifies why certain AI systems in critical infrastructure (listed in Annex III) are classified as high-risk, linking to Article 6(2)."
+      },
+      {
+        "recital_num": 63,
+        "reason": "Clarifies that high-risk classification under Article 6 does not determine legality under other Union or national laws, defining the scope of the classification."
+      },
+      {
+        "recital_num": 131,
+        "reason": "Explains the registration obligation for providers who assess their Annex III AI system as not high-risk, directly linked to Article 6(4)."
+      }
+    ]
+  },
+  "7": {
+    "article_title": "Amendments to Annex III",
+    "linked_recitals": [
+      {
+        "recital_num": 53,
+        "reason": "It clarifies when AI systems in pre-defined areas do not pose significant risk, directly informing the conditions for removing high-risk AI systems from Annex III under Article 7(3) and implicitly for addition."
+      },
+      {
+        "recital_num": 67,
+        "reason": "It highlights the importance of high-quality data for AI system performance and safety, relating to criterion Article 7(2)(c) on the nature and amount of data processed."
+      },
+      {
+        "recital_num": 124,
+        "reason": "It explains the consideration of existing Union law for redress and risk minimisation, which is a specific criterion in Article 7(2)(k) for assessing risk equivalence."
+      }
+    ]
+  },
+  "8": {
+    "article_title": "Compliance with the requirements",
+    "linked_recitals": [
+      {
+        "recital_num": 49,
+        "reason": "It identifies high-risk AI systems subject to Union harmonisation legislation, establishing the context for Article 8(2)'s integration requirement to avoid duplication."
+      },
+      {
+        "recital_num": 64,
+        "reason": "It explains that mandatory requirements for high-risk AI systems must take into account the intended purpose and the generally acknowledged state of the art, directly justifying Article 8(1)."
+      },
+      {
+        "recital_num": 65,
+        "reason": "It details the risk-management system as a continuous process, which Article 8(1) incorporates into compliance, providing the rationale for its mandatory consideration."
+      },
+      {
+        "recital_num": 77,
+        "reason": "It shows how compliance with cybersecurity requirements can be demonstrated through other regulations, supporting Article 8(2)'s approach to integrate processes and minimise burdens."
+      }
+    ]
+  },
+  "9": {
+    "article_title": "Risk management system",
+    "linked_recitals": [
+      {
+        "recital_num": 64,
+        "reason": "It provides the policy justification for establishing a risk-management system, stating that mandatory requirements for high-risk AI systems should be based on such a system to mitigate risks and ensure a high level of trustworthiness."
+      },
+      {
+        "recital_num": 65,
+        "reason": "It explicitly defines the risk-management system as a continuous, iterative process planned throughout the entire lifecycle, with regular review and updating, directly mirroring the core obligation in Article 9(1) and (2)."
+      }
+    ]
+  },
+  "10": {
+    "article_title": "Data and data governance",
+    "linked_recitals": [
+      {
+        "recital_num": 38,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      },
+      {
+        "recital_num": 39,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      },
+      {
+        "recital_num": 67,
+        "reason": "Explains the vital role of high-quality data and appropriate data governance practices in ensuring the performance, safety, and non-discrimination of high-risk AI systems, directly justifying the data governance requirements in Article 10."
+      },
+      {
+        "recital_num": 94,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      },
+      {
+        "recital_num": 122,
+        "reason": "Provides a specific presumption of compliance with the data governance requirement when training and testing data reflect the specific geographical, behavioural, contextual, or functional setting of intended use, clarifying the scope and interpretation of Article 10(4)."
+      },
+      {
+        "recital_num": 140,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      }
+    ]
+  },
+  "11": {
+    "article_title": "Technical documentation",
+    "linked_recitals": [
+      {
+        "recital_num": 65,
+        "reason": "Links the technical documentation requirement to the broader risk-management system that providers must establish for high-risk AI systems."
+      },
+      {
+        "recital_num": 71,
+        "reason": "Explains that comprehensible technical documentation is essential for traceability, verification of compliance, and post-market monitoring."
+      },
+      {
+        "recital_num": 74,
+        "reason": "Justifies the inclusion of performance metrics and accuracy levels in the documentation to ensure consistent system performance."
+      },
+      {
+        "recital_num": 84,
+        "reason": "Clarifies which entities are considered providers, thereby determining who is obligated to prepare the technical documentation."
+      },
+      {
+        "recital_num": 118,
+        "reason": "Explains the rationale for a single set of technical documentation when a high-risk AI system is also covered by other Union harmonisation legislation."
+      },
+      {
+        "recital_num": 153,
+        "reason": "Identifies the national competent authorities and notified bodies that require clear and comprehensive documentation to assess compliance."
+      },
+      {
+        "recital_num": 175,
+        "reason": "Provides the legal basis for the Commission's delegated power to amend Annex IV, which specifies the documentation elements."
+      }
+    ]
+  },
+  "12": {
+    "article_title": "Record-keeping",
+    "linked_recitals": [
+      {
+        "recital_num": 64,
+        "reason": "It establishes that mandatory requirements for high-risk AI systems are necessary to mitigate risks and ensure trustworthiness, providing the basis for specific obligations like record-keeping."
+      },
+      {
+        "recital_num": 65,
+        "reason": "It describes the risk-management system as a continuous, iterative process requiring regular review and documentation, which logging enables by recording events throughout the lifecycle."
+      },
+      {
+        "recital_num": 74,
+        "reason": "It states that high-risk AI systems should perform consistently and meet performance metrics throughout their lifecycle, and logging is necessary to monitor and verify this performance."
+      },
+      {
+        "recital_num": 96,
+        "reason": "It requires deployers to carry out fundamental rights impact assessments and monitor certain high-risk AI systems, and logging provides the data needed for such monitoring and assessment."
+      }
+    ]
+  },
+  "13": {
+    "article_title": "Transparency and provision of information to deployers",
+    "linked_recitals": [
+      {
+        "recital_num": 27,
+        "reason": "Cites the ethical principle of transparency from the AI HLEG guidelines as a basis for the transparency requirements in Article 13."
+      },
+      {
+        "recital_num": 46,
+        "reason": "Sets the overarching objective of preventing unacceptable risks, which Article 13's information duties help achieve by enabling proper deployment and oversight."
+      },
+      {
+        "recital_num": 59,
+        "reason": "Highlights the risks from poor performance or design, underscoring the need for deployers to have the information required to evaluate these aspects."
+      },
+      {
+        "recital_num": 64,
+        "reason": "Places the mandatory requirements for high-risk AI systems, including transparency, within the risk-management framework established by the provider."
+      },
+      {
+        "recital_num": 67,
+        "reason": "Emphasizes the importance of high-quality data for performance and non-discrimination, supporting the requirement to provide information on training data in Article 13(3)(b)(vi)."
+      },
+      {
+        "recital_num": 72,
+        "reason": "Directly establishes the need for transparency and accompanying instructions to enable deployers to understand, evaluate, and comprehend high-risk AI systems."
+      },
+      {
+        "recital_num": 93,
+        "reason": "Explains that deployers play a critical role in identifying significant risks, justifying the need for them to receive sufficient information to fulfil this role."
+      },
+      {
+        "recital_num": 96,
+        "reason": "Justifies the requirement for deployers (especially public entities) to conduct fundamental rights impact assessments, which necessitates detailed information from the provider as mandated by Article 13."
+      },
+      {
+        "recital_num": 122,
+        "reason": "Presumes compliance with data governance requirements when systems are trained on specific data, linking to the data specification information required in Article 13(3)(b)(vi)."
+      }
+    ]
+  },
+  "14": {
+    "article_title": "Human oversight",
+    "linked_recitals": [
+      {
+        "recital_num": 27,
+        "reason": "Establishes the foundational ethical principle of human agency and oversight from the AI HLEG guidelines, providing the fundamental rights and ethical basis for the Article 14 requirement."
+      },
+      {
+        "recital_num": 73,
+        "reason": "Directly explains that high-risk AI systems must be designed for effective human oversight to ensure intended use and address impacts, specifying that oversight measures should be identified by the provider before market placement, which mirrors Article 14's core obligations."
+      },
+      {
+        "recital_num": 91,
+        "reason": "Justifies the deployer's role in monitoring the AI system's performance in real-life settings, which underpins Article 14(4)'s requirements for deployers to understand, monitor, and intervene in the system's operation."
+      }
+    ]
+  },
+  "15": {
+    "article_title": "Accuracy, robustness and cybersecurity",
+    "linked_recitals": [
+      {
+        "recital_num": 7,
+        "reason": "Establishes the overarching objective of common rules for high-risk AI systems to ensure a high level of protection of health, safety, and fundamental rights, providing the fundamental rights basis for all requirements, including accuracy, robustness, and cybersecurity."
+      },
+      {
+        "recital_num": 46,
+        "reason": "Explains that mandatory requirements for high-risk AI systems are necessary to prevent unacceptable risks to protected Union public interests, justifying why such systems must meet specific performance obligations."
+      },
+      {
+        "recital_num": 59,
+        "reason": "Highlights the critical importance of accuracy, robustness, and performance in high-risk AI systems used by law enforcement, where deficiencies can lead to severe adverse impacts on fundamental rights, directly motivating the stringent requirements in Article 15."
+      },
+      {
+        "recital_num": 64,
+        "reason": "States that mandatory requirements for high-risk AI systems should be based on the risk-management system and take into account the state of the art, providing the policy framework for the 'appropriate level' of accuracy, robustness, and cybersecurity required by Article 15(1)."
+      },
+      {
+        "recital_num": 74,
+        "reason": "Directly paraphrases and justifies the core obligations of Article 15, specifying that high-risk AI systems must perform consistently throughout their lifecycle, meet appropriate levels of accuracy, robustness, and cybersecurity considering the state of the art, and declare performance metrics in the instructions for use."
+      },
+      {
+        "recital_num": 77,
+        "reason": "Clarifies that compliance with cybersecurity requirements for high-risk AI systems can be achieved by fulfilling essential requirements under other Union cybersecurity legislation, providing the specific legislative context for the cybersecurity obligations in Article 15(5)."
+      }
+    ]
+  },
+  "16": {
+    "article_title": "Obligations of providers of high-risk AI systems",
+    "linked_recitals": [
+      {
+        "recital_num": 4,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      },
+      {
+        "recital_num": 9,
+        "reason": "Provides the basis for the conformity assessment and CE marking obligations by aligning with the New Legislative Framework."
+      },
+      {
+        "recital_num": 40,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      },
+      {
+        "recital_num": 46,
+        "reason": "Justifies the overall requirement for providers to ensure compliance with mandatory requirements before placing high-risk AI systems on the market."
+      },
+      {
+        "recital_num": 49,
+        "reason": "Explains that for high-risk AI systems that are safety components under existing Union harmonisation legislation, compliance should be assessed within existing conformity assessments."
+      },
+      {
+        "recital_num": 64,
+        "reason": "Introduces the need for mandatory requirements based on a risk-management system, supporting the compliance obligation."
+      },
+      {
+        "recital_num": 65,
+        "reason": "Details the continuous risk-management process that providers must establish as part of Section 2 requirements."
+      },
+      {
+        "recital_num": 67,
+        "reason": "Emphasizes the importance of high-quality data, underpinning the data governance requirements in Section 2."
+      },
+      {
+        "recital_num": 76,
+        "reason": "Highlights the crucial role of cybersecurity in ensuring AI system resilience, part of robustness requirements."
+      },
+      {
+        "recital_num": 77,
+        "reason": "Clarifies that compliance with cybersecurity requirements can be demonstrated through existing regulations, relating to the demonstration of conformity."
+      },
+      {
+        "recital_num": 84,
+        "reason": "Defines when a third party is considered a provider, determining who is subject to the obligations in Article 16."
+      },
+      {
+        "recital_num": 122,
+        "reason": "Presumes compliance with data governance for systems trained on specific data, supporting the general compliance obligation."
+      },
+      {
+        "recital_num": 124,
+        "reason": "Aims to avoid duplication by integrating conformity assessment for high-risk AI systems under existing harmonisation legislation."
+      },
+      {
+        "recital_num": 131,
+        "reason": "Specifically requires providers to register themselves and their high-risk AI systems in an EU database, corresponding to the registration obligation."
+      },
+      {
+        "recital_num": 136,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      }
+    ]
+  },
+  "17": {
+    "article_title": "Quality management system",
+    "linked_recitals": [
+      {
+        "recital_num": 49,
+        "reason": "Addresses high-risk AI systems that are safety components under other sectoral legislation, relating to the possibility of using equivalent quality management systems under Article 17(3)."
+      },
+      {
+        "recital_num": 64,
+        "reason": "Provides the overarching policy rationale for mandatory requirements on high-risk AI systems, including the establishment of a quality management system based on risk management and state of the art."
+      },
+      {
+        "recital_num": 65,
+        "reason": "Explains the continuous and iterative nature of the risk management system, which is a required component of the quality management system under Article 17(1)(g)."
+      },
+      {
+        "recital_num": 67,
+        "reason": "Highlights the critical role of high-quality data in AI system performance and non-discrimination, underpinning the data management procedures required in Article 17(1)(f)."
+      },
+      {
+        "recital_num": 158,
+        "reason": "Justifies the exception for financial institutions in Article 17(4) by emphasizing the need for coherent application with Union financial services law."
+      }
+    ]
+  },
+  "18": {
+    "article_title": "Documentation keeping",
+    "linked_recitals": [
+      {
+        "recital_num": 65,
+        "reason": "It explains that the risk-management system must include justification and documentation of significant decisions and actions, which underpins the requirement to keep technical documentation and quality management records."
+      },
+      {
+        "recital_num": 156,
+        "reason": "It establishes that market surveillance authorities need access to documentation to enforce the Regulation, directly justifying the obligation to keep documentation at their disposal."
+      },
+      {
+        "recital_num": 158,
+        "reason": "It provides the specific rationale for paragraph 3, clarifying that financial institutions already maintain equivalent documentation under Union financial services law, so they are exempt from duplicate obligations."
+      },
+      {
+        "recital_num": 164,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      }
+    ]
+  },
+  "19": {
+    "article_title": "Automatically generated logs",
+    "linked_recitals": [
+      {
+        "recital_num": 91,
+        "reason": "It establishes the need for deployers to monitor the performance of high-risk AI systems in real-life settings, which requires access to automatically generated logs kept by providers."
+      },
+      {
+        "recital_num": 93,
+        "reason": "It emphasizes deployers' role in identifying unforeseen risks to fundamental rights, necessitating that providers retain logs to enable such risk assessment and mitigation."
+      }
+    ]
+  },
+  "20": {
+    "article_title": "Corrective actions and duty of information",
+    "linked_recitals": [
+      {
+        "recital_num": 66,
+        "reason": "It establishes that the requirements for high-risk AI systems are necessary to effectively mitigate risks for health, safety, and fundamental rights, providing the overarching justification for corrective actions to address non-conformity."
+      },
+      {
+        "recital_num": 81,
+        "reason": "It specifically mandates the establishment of a robust post-market monitoring system to detect and correct non-compliance promptly, which directly underpins the corrective action and duty of information obligations in Article 20."
+      },
+      {
+        "recital_num": 93,
+        "reason": "It explains that deployers are best placed to identify risks not foreseen during development, justifying the requirement in Article 20(2) for providers to investigate causes in collaboration with reporting deployers."
+      }
+    ]
+  },
+  "21": {
+    "article_title": "Cooperation with competent authorities",
+    "linked_recitals": [
+      {
+        "recital_num": 71,
+        "reason": "Explains the need for comprehensible information, technical documentation, and records to enable traceability, verify compliance, and monitor AI systems, which directly justifies the provider's obligation to supply such documentation to authorities upon request."
+      },
+      {
+        "recital_num": 153,
+        "reason": "Establishes that Member States must designate national competent authorities (including market surveillance authorities) to supervise the application of the Regulation, providing the essential basis for the 'competent authority' to which providers must cooperate under Article 21."
+      }
+    ]
+  },
+  "22": {
+    "article_title": "Authorised representatives of providers of high-risk AI systems",
+    "linked_recitals": [
+      {
+        "recital_num": 82,
+        "reason": "It explains the need for third-country providers to appoint an authorised representative in the Union to ensure enforcement, provide authorities with necessary information, and create a level playing field."
+      }
+    ]
+  },
+  "23": {
+    "article_title": "Obligations of importers",
+    "linked_recitals": [
+      {
+        "recital_num": 84,
+        "reason": "It clarifies that importers (and other third parties) may be considered providers under specific conditions, such as placing their name/trademark on a high-risk AI system, thereby justifying the imposition of provider-like obligations on them under Article 23."
+      }
+    ]
+  },
+  "24": {
+    "article_title": "Obligations of distributors",
+    "linked_recitals": [
+      {
+        "recital_num": 46,
+        "reason": "States that high-risk AI systems must comply with mandatory requirements to avoid unacceptable risks, providing the basis for distributors' pre-market verification and non-conformity duties."
+      },
+      {
+        "recital_num": 48,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      },
+      {
+        "recital_num": 64,
+        "reason": "Outlines the purpose of mandatory requirements to mitigate risks from high-risk AI systems, which distributors must help enforce through verification and corrective actions."
+      },
+      {
+        "recital_num": 71,
+        "reason": "Explains the need for traceability and technical documentation, which distributors must verify under Article 24(1)."
+      },
+      {
+        "recital_num": 74,
+        "reason": "Justifies the requirement for high-risk AI systems to meet performance metrics, which distributors must ensure are complied with under Article 24(1) and (3)."
+      },
+      {
+        "recital_num": 78,
+        "reason": "Clarifies that cybersecurity is an essential requirement for high-risk AI systems, which distributors must verify under Article 24(1)."
+      },
+      {
+        "recital_num": 84,
+        "reason": "Defines when distributors may be considered providers, underscoring their accountability and the rationale for specific distributor obligations to ensure conformity."
+      },
+      {
+        "recital_num": 140,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      },
+      {
+        "recital_num": 153,
+        "reason": "Establishes the role of national competent authorities for market surveillance, justifying the distributor obligations to cooperate and provide information in Article 24(5) and (6)."
+      }
+    ]
+  },
+  "25": {
+    "article_title": "Responsibilities along the AI value chain",
+    "linked_recitals": [
+      {
+        "recital_num": 49,
+        "reason": "Provides the specific context for paragraph 3 by explaining that product manufacturers should be considered providers when high-risk AI systems are safety components of products covered by Union harmonisation legislation."
+      },
+      {
+        "recital_num": 84,
+        "reason": "Directly justifies paragraphs 1 and 2 by stating the need to clarify when distributors, importers, deployers, or other third parties become providers to ensure legal certainty."
+      },
+      {
+        "recital_num": 85,
+        "reason": "Explains the underlying policy of fair responsibility sharing along the AI value chain, particularly for general-purpose AI systems, which underpins the cooperation and agreement requirements in paragraph 4."
+      }
+    ]
+  },
+  "26": {
+    "article_title": "Obligations of deployers of high-risk AI systems",
+    "linked_recitals": [
+      {
+        "recital_num": 72,
+        "reason": "Links the requirement for transparency (to help deployers understand the system) to the deployer's obligation to use the system according to the provider's instructions, supporting paragraph 1."
+      },
+      {
+        "recital_num": 91,
+        "reason": "Directly states that deployers should take appropriate technical and organisational measures to use high-risk AI systems in accordance with instructions and monitor their functionality, providing the core rationale for paragraphs 1 and 5."
+      },
+      {
+        "recital_num": 93,
+        "reason": "Explains that deployers play a critical role in ensuring fundamental rights protection and are best placed to identify risks not foreseen by the provider, justifying their specific obligations."
+      },
+      {
+        "recital_num": 96,
+        "reason": "Justifies the need for certain deployers (public bodies, private entities providing public services, banking/insurance) to conduct fundamental rights impact assessments prior to use, underpinning the broader duty of care in Article 26."
+      },
+      {
+        "recital_num": 158,
+        "reason": "Explains the rationale for treating financial institutions differently regarding monitoring and logging obligations by referencing existing Union financial services law, directly relevant to the exemptions in paragraphs 5 and 6."
+      }
+    ]
+  },
+  "27": {
+    "article_title": "Fundamental rights impact assessment for high-risk AI systems",
+    "linked_recitals": [
+      {
+        "recital_num": 58,
+        "reason": "It explains that AI systems used in access to essential public and private services deserve special consideration due to their impact on fundamental rights, providing the policy basis for requiring impact assessments for deployers in public services under Article 27."
+      },
+      {
+        "recital_num": 59,
+        "reason": "It highlights the significant risks to fundamental rights from AI systems used by law enforcement authorities, justifying why deployers of such systems (covered under Annex III point 5) are subject to the impact assessment requirement in Article 27."
+      },
+      {
+        "recital_num": 96,
+        "reason": "It explicitly states that deployers which are bodies governed by public law or private entities providing public services, as well as deployers of certain high-risk AI systems listed in Annex III, should carry out a fundamental rights impact assessment prior to use, directly justifying the obligation in Article 27(1)."
+      }
+    ]
+  },
+  "28": {
+    "article_title": "Notifying authorities",
+    "linked_recitals": [
+      {
+        "recital_num": 9,
+        "reason": "It explains that the harmonised rules, including those for notifying authorities, are laid down consistently with the New Legislative Framework (Regulation (EC) No 765/2008, Decision No 768/2008/EC, Regulation (EU) 2019/1020), which provides the basis for the designation and operation of notifying authorities as set out in Article 28."
+      }
+    ]
+  },
+  "29": {
+    "article_title": "Application of a conformity assessment body for notification",
+    "linked_recitals": [
+      {
+        "recital_num": 9,
+        "reason": "Recital (9) establishes the harmonised rules for placing on the market and putting into service, referencing the New Legislative Framework (Regulations (EC) No 765/2008, Decision No 768/2008/EC, and Regulation (EU) 2019/1020), which governs conformity assessment bodies and notified bodies; this provides the legislative basis for the notification procedure detailed in Article 29."
+      }
+    ]
+  },
+  "30": {
+    "article_title": "Notification procedure",
+    "linked_recitals": [
+      {
+        "recital_num": 9,
+        "reason": "Provides the legislative basis for the notification procedure by aligning it with the New Legislative Framework for consistent conformity assessment and market access across the EU."
+      }
+    ]
+  },
+  "31": {
+    "article_title": "Requirements relating to notified bodies",
+    "linked_recitals": [
+      {
+        "recital_num": 9,
+        "reason": "Establishes the harmonised rules framework (New Legislative Framework) under which notified bodies must be established, providing the basis for their legal personality and national operation as required in Article 31(1)."
+      },
+      {
+        "recital_num": 46,
+        "reason": "Justifies the need for mandatory requirements on high-risk AI systems to protect Union interests, implying that the bodies verifying compliance (notified bodies) must themselves meet rigorous standards to ensure trustworthy assessments."
+      },
+      {
+        "recital_num": 64,
+        "reason": "Links the mandatory requirements for high-risk AI systems to a risk-management system, necessitating that notified bodies have the organisational, resource, and procedural capabilities (Article 31(2)-(3), (8)) to assess compliance with those risk-based requirements effectively."
+      },
+      {
+        "recital_num": 156,
+        "reason": "Emphasises that market surveillance and enforcement authorities must act independently, directly supporting the requirements in Article 31(4)-(7) for notified bodies to be independent, impartial, and free from conflicts of interest in their conformity assessment activities."
+      }
+    ]
+  },
+  "32": {
+    "article_title": "Presumption of conformity with requirements relating to notified bodies",
+    "linked_recitals": [
+      {
+        "recital_num": 9,
+        "reason": "It establishes that the regulation follows the New Legislative Framework, which incorporates mechanisms like presumption of conformity based on harmonised standards for conformity assessment bodies to ensure consistency with EU product legislation."
+      }
+    ]
+  },
+  "33": {
+    "article_title": "Subsidiaries of notified bodies and subcontracting",
+    "linked_recitals": []
+  },
+  "34": {
+    "article_title": "Operational obligations of notified bodies",
+    "linked_recitals": [
+      {
+        "recital_num": 126,
+        "reason": "Explains the requirement for notified bodies to be designated and meet criteria (independence, competence), which underpins their operational role in conformity assessment under Article 34."
+      },
+      {
+        "recital_num": 143,
+        "reason": "Provides the policy justification for paragraph 2 by stating that the interests of SMEs, including start-ups, should be taken into particular account, directly linking to the obligation to minimise administrative burdens for micro and small enterprises."
+      },
+      {
+        "recital_num": 157,
+        "reason": "Justifies the documentation sharing requirement in paragraph 3 by establishing that national public authorities responsible for enforcing fundamental rights protection need access to documentation created under the Regulation."
+      }
+    ]
+  },
+  "35": {
+    "article_title": "Identification numbers and lists of notified bodies",
+    "linked_recitals": []
+  },
+  "36": {
+    "article_title": "Changes to notifications",
+    "linked_recitals": []
+  },
+  "37": {
+    "article_title": "Challenge to the competence of notified bodies",
+    "linked_recitals": [
+      {
+        "recital_num": 153,
+        "reason": "It establishes that Member States must designate notifying authorities responsible for notifying and supervising notified bodies, directly contextualizing the role of the notifying authority in Article 37(2) and (4)."
+      },
+      {
+        "recital_num": 175,
+        "reason": "It confers implementing powers on the Commission to ensure uniform conditions, providing the legal basis for the Commission's adoption of implementing acts under Article 37(4) to suspend, restrict, or withdraw a designation."
+      }
+    ]
+  },
+  "38": {
+    "article_title": "Coordination of notified bodies",
+    "linked_recitals": [
+      {
+        "recital_num": 9,
+        "reason": "It establishes the New Legislative Framework as the basis for harmonized rules, which includes the need for coordinated conformity assessment by notified bodies to ensure consistent application across the internal market."
+      },
+      {
+        "recital_num": 153,
+        "reason": "It designates notifying authorities as national competent authorities, which Article 38 then tasks with ensuring their notified bodies participate in coordination, thus linking the existence of these authorities to the coordination mechanism."
+      },
+      {
+        "recital_num": 175,
+        "reason": "It confers implementing powers on the Commission to ensure uniform conditions, which justifies the Commission's role in establishing and overseeing the sectoral group of notified bodies as per Article 38(1) and (3)."
+      }
+    ]
+  },
+  "39": {
+    "article_title": "Conformity assessment bodies of third countries",
+    "linked_recitals": []
+  },
+  "40": {
+    "article_title": "Harmonised standards and standardisation deliverables",
+    "linked_recitals": [
+      {
+        "recital_num": 121,
+        "reason": "Explains that standardisation provides technical solutions for compliance with the Regulation, promotes innovation and competitiveness, and establishes that compliance with harmonised standards should be a means for providers to demonstrate conformity, directly underpinning Article 40's presumption of conformity via harmonised standards."
+      }
+    ]
+  },
+  "41": {
+    "article_title": "Common specifications",
+    "linked_recitals": [
+      {
+        "recital_num": 121,
+        "reason": "Explains the key role of standardisation and harmonised standards as the primary means for providers to demonstrate conformity with requirements, and sets the context for when common specifications are needed if standards are unavailable or insufficient."
+      }
+    ]
+  },
+  "42": {
+    "article_title": "Presumption of conformity with certain requirements",
+    "linked_recitals": [
+      {
+        "recital_num": 78,
+        "reason": "It provides the legislative rationale for presuming conformity with cybersecurity requirements based on certification under Regulation (EU) 2019/881, to avoid duplication and ensure an adequate level of assurance without reducing safety standards."
+      },
+      {
+        "recital_num": 180,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      }
+    ]
+  },
+  "43": {
+    "article_title": "Conformity assessment",
+    "linked_recitals": [
+      {
+        "recital_num": 9,
+        "reason": "Explains that harmonised rules for placing on the market and putting into service are laid down consistently with the New Legislative Framework, which provides the basis for the conformity assessment procedures in Article 43."
+      },
+      {
+        "recital_num": 46,
+        "reason": "Justifies that high-risk AI systems must comply with mandatory requirements to protect Union interests, necessitating a conformity assessment to demonstrate such compliance."
+      },
+      {
+        "recital_num": 77,
+        "reason": "Clarifies how high-risk AI systems falling under other Union harmonisation legislation can demonstrate compliance with cybersecurity requirements, directly relevant to Article 43(3) on integrating other legislative acts."
+      },
+      {
+        "recital_num": 121,
+        "reason": "Highlights the key role of standardisation in providing technical solutions for providers to ensure compliance, underpinning the use of harmonised standards in the conformity assessment procedures of Article 43(1)."
+      }
+    ]
+  },
+  "44": {
+    "article_title": "Certificates",
+    "linked_recitals": [
+      {
+        "recital_num": 9,
+        "reason": "Establishes that the rules for high-risk AI systems, including conformity assessment procedures, are based on the New Legislative Framework, providing the foundation for certificate issuance by notified bodies."
+      },
+      {
+        "recital_num": 46,
+        "reason": "Explains that high-risk AI systems must comply with mandatory requirements to be placed on the market, underpinning the need for certificate-based conformity assessment to ensure such compliance."
+      },
+      {
+        "recital_num": 65,
+        "reason": "Justifies the periodic re-assessment for certificate validity and the possibility of suspension by emphasizing the continuous, iterative nature of the risk-management system that must be regularly reviewed."
+      }
+    ]
+  },
+  "45": {
+    "article_title": "Information obligations of notified bodies",
+    "linked_recitals": [
+      {
+        "recital_num": 148,
+        "reason": "Establishes the governance framework for coordination and support at national and Union level, which includes the information flows and oversight mechanisms for notified bodies as set out in Article 45."
+      }
+    ]
+  },
+  "46": {
+    "article_title": "Derogation from conformity assessment procedure",
+    "linked_recitals": [
+      {
+        "recital_num": 35,
+        "reason": "Provides rationale for allowing exceptions to prior authorization in urgent law enforcement situations, aligning with Article 46 paragraph 2."
+      },
+      {
+        "recital_num": 49,
+        "reason": "Explains why for high-risk AI systems related to products under Union harmonisation legislation, only specific derogations apply, as per Article 46 paragraph 7."
+      },
+      {
+        "recital_num": 58,
+        "reason": "Justifies the inclusion of protection of life and health as an exceptional reason for derogation in Article 46 paragraph 1."
+      },
+      {
+        "recital_num": 59,
+        "reason": "Supports the consideration of public security as an exceptional reason for derogation, particularly for law enforcement authorities in Article 46 paragraph 2."
+      }
+    ]
+  },
+  "47": {
+    "article_title": "EU declaration of conformity",
+    "linked_recitals": [
+      {
+        "recital_num": 9,
+        "reason": "It establishes the New Legislative Framework as the basis for harmonised rules, including conformity declarations, for placing AI systems on the market."
+      },
+      {
+        "recital_num": 46,
+        "reason": "It explains that high-risk AI systems must comply with mandatory requirements to protect Union interests, necessitating a declaration of conformity."
+      },
+      {
+        "recital_num": 49,
+        "reason": "It addresses high-risk AI systems that are also subject to other Union product legislation, justifying the provision for a single EU declaration of conformity."
+      },
+      {
+        "recital_num": 64,
+        "reason": "It outlines that mandatory requirements for high-risk AI systems are based on a risk-management system, which the declaration confirms compliance with."
+      },
+      {
+        "recital_num": 77,
+        "reason": "It clarifies that compliance with cybersecurity requirements under other regulations can be demonstrated through the EU declaration of conformity, supporting the single declaration approach."
+      },
+      {
+        "recital_num": 84,
+        "reason": "It specifies when distributors, importers, or other third parties are considered providers, thereby triggering the obligation to draw up an EU declaration of conformity."
+      }
+    ]
+  },
+  "48": {
+    "article_title": "CE marking",
+    "linked_recitals": [
+      {
+        "recital_num": 51,
+        "reason": "Clarifies that classification as high-risk under this Regulation does not automatically mean the product is high-risk under other Union harmonisation legislation, which is the specific policy justification for paragraph 5 of Article 48 addressing multiple CE marking obligations under different laws."
+      },
+      {
+        "recital_num": 123,
+        "reason": "States that high-risk AI systems must undergo a conformity assessment before being placed on the market, which is the foundational rationale for the CE marking as the visible indication of such conformity, directly justifying Article 48."
+      },
+      {
+        "recital_num": 129,
+        "reason": "Explains that high-risk AI systems must bear the CE marking to indicate conformity and ensure free movement in the internal market, and distinguishes between physical and digital CE marking based on how the system is provided, directly addressing paragraphs 1, 2, and 3 of Article 48."
+      },
+      {
+        "recital_num": 156,
+        "reason": "Establishes that market surveillance authorities under Regulation (EU) 2019/1020 are responsible for enforcement, providing the regulatory context for the CE marking system as a tool for conformity assessment and market access, which underpins Article 48's requirements."
+      }
+    ]
+  },
+  "49": {
+    "article_title": "Registration",
+    "linked_recitals": [
+      {
+        "recital_num": 59,
+        "reason": "It explains the heightened risks from AI systems in law enforcement, migration, asylum and border control, justifying the secure, non-public registration requirement in Article 49(4)."
+      },
+      {
+        "recital_num": 153,
+        "reason": "It establishes the role of national competent authorities in supervising the Regulation, providing the rationale for the registration system to enable such oversight and enforcement."
+      }
+    ]
+  },
+  "50": {
+    "article_title": "Transparency obligations for providers and deployers of certain AI systems",
+    "linked_recitals": [
+      {
+        "recital_num": 10,
+        "reason": "Establishes the fundamental right to data protection, which forms the basis for the personal data processing requirements in Article 50(3)."
+      },
+      {
+        "recital_num": 59,
+        "reason": "Justifies the law enforcement exceptions in Article 50 by explaining the risks and power imbalances associated with AI use in law enforcement."
+      },
+      {
+        "recital_num": 69,
+        "reason": "Reinforces the application of data protection principles throughout the AI lifecycle, supporting the data processing obligations in Article 50(3)."
+      },
+      {
+        "recital_num": 100,
+        "reason": "Clarifies when an AI system is considered general-purpose, which is key for applying Article 50(2) to providers of such systems."
+      },
+      {
+        "recital_num": 104,
+        "reason": "Explains the exception for open-source general-purpose AI models from transparency requirements in Article 50(2)."
+      },
+      {
+        "recital_num": 105,
+        "reason": "Highlights the impact of generative AI on creators, underpinning the need for transparency in synthetic content as required by Article 50(2) and (4)."
+      },
+      {
+        "recital_num": 135,
+        "reason": "Provides policy justification and implementation guidance for the transparency obligations on detecting and labeling artificially generated content in Article 50(2) and (4)."
+      }
+    ]
+  },
+  "51": {
+    "article_title": "Classification of general-purpose AI models as general-purpose AI models with systemic risk",
+    "linked_recitals": [
+      {
+        "recital_num": 112,
+        "reason": "Recital (112) explicitly outlines the need for a classification procedure for general-purpose AI models with systemic risks, including the presumption based on high-impact capabilities thresholds and notification to the AI Office, which directly justifies the criteria and process set out in Article 51."
+      }
+    ]
+  },
+  "52": {
+    "article_title": "Procedure",
+    "linked_recitals": [
+      {
+        "recital_num": 112,
+        "reason": "It explains the notification procedure and presumption of systemic risk for general-purpose AI models meeting high-impact capability thresholds, directly justifying Article 52(1)-(2) and the basis for ex officio designation in (4)."
+      },
+      {
+        "recital_num": 162,
+        "reason": "It establishes the Commission's (AI Office's) exclusive competence to supervise and enforce obligations on general-purpose AI model providers, underpinning the Commission's designation, reassessment, and list publication roles in Article 52(4)-(6)."
+      }
+    ]
+  },
+  "53": {
+    "article_title": "Obligations for providers of general-purpose AI models",
+    "linked_recitals": [
+      {
+        "recital_num": 106,
+        "reason": "Directly justifies the obligation in Article 53(1)(c) by stating that providers must put in place a policy to comply with Union copyright law, particularly Directive (EU) 2019/790."
+      },
+      {
+        "recital_num": 109,
+        "reason": "Provides the rationale for proportionality in obligations, including exceptions for open-source models and simplified compliance for smaller providers, relating to Article 53(2)."
+      },
+      {
+        "recital_num": 112,
+        "reason": "Clarifies the classification procedure for general-purpose AI models with systemic risks, explaining why such models are excluded from the open-source exception in Article 53(2)."
+      },
+      {
+        "recital_num": 117,
+        "reason": "Establishes codes of practice as a central tool for compliance with obligations for general-purpose AI model providers, directly supporting Article 53(4)."
+      },
+      {
+        "recital_num": 148,
+        "reason": "Explains the governance framework and role of the AI Office, which contextualises the cooperation and documentation-sharing obligations in Article 53(1)(a) and (3)."
+      }
+    ]
+  },
+  "54": {
+    "article_title": "Authorised representatives of providers of general-purpose AI models",
+    "linked_recitals": [
+      {
+        "recital_num": 21,
+        "reason": "Explains the need for authorised representatives by stating that rules apply non-discriminately to providers established in third countries, necessitating an EU-based representative for enforcement."
+      },
+      {
+        "recital_num": 97,
+        "reason": "Defines 'general-purpose AI models', establishing the scope of providers subject to the authorised representative obligation under Article 54."
+      },
+      {
+        "recital_num": 100,
+        "reason": "Clarifies when a system becomes a general-purpose AI system due to integration, which relates to the authorised representative's tasks concerning integrated models in paragraph 3(d)."
+      },
+      {
+        "recital_num": 104,
+        "reason": "Provides the legislative rationale for the exception in paragraph 6, stating that open-source models are exempt unless they present systemic risks."
+      },
+      {
+        "recital_num": 122,
+        "reason": "Explicit article reference in recital metadata (guaranteed link)"
+      },
+      {
+        "recital_num": 148,
+        "reason": "Establishes the AI Office's central role in governance and supervision, justifying why the authorised representative must interact with and provide information to the AI Office."
+      },
+      {
+        "recital_num": 162,
+        "reason": "Confirms the AI Office's competence to monitor and enforce obligations on providers of general-purpose AI models, underpinning the representative's duty to cooperate with the AI Office."
+      }
+    ]
+  },
+  "55": {
+    "article_title": "Obligations of providers of general-purpose AI models with systemic risk",
+    "linked_recitals": [
+      {
+        "recital_num": 104,
+        "reason": "Explains that providers of general-purpose AI models presenting a systemic risk are subject to obligations regardless of open-source licensing, directly contextualizing the scope of Article 55."
+      },
+      {
+        "recital_num": 116,
+        "reason": "Describes the AI Office's role in facilitating and encouraging codes of practice for general-purpose AI models, which underpins the compliance mechanism in Article 55(2)."
+      },
+      {
+        "recital_num": 117,
+        "reason": "Explicitly states that codes of practice are a central tool for providers to demonstrate compliance with obligations for general-purpose AI models, providing the legislative rationale for Article 55(2)."
+      },
+      {
+        "recital_num": 148,
+        "reason": "Establishes the AI Office's governance mission to develop Union expertise and coordinate application of the Regulation, justifying the reporting obligations to the AI Office in Article 55(1)(c)."
+      },
+      {
+        "recital_num": 153,
+        "reason": "Mandates Member States to designate national competent authorities for supervision, which relates to the requirement in Article 55(1)(c) to report incidents to national authorities as appropriate."
+      }
+    ]
+  },
+  "56": {
+    "article_title": "Codes of practice",
+    "linked_recitals": [
+      {
+        "recital_num": 104,
+        "reason": "It justifies the distinction in Article 56(7) between providers of general-purpose AI models with and without systemic risk, by explaining that open-source models are exempt from certain transparency requirements unless they present systemic risk."
+      },
+      {
+        "recital_num": 109,
+        "reason": "It establishes the principle of proportionality based on provider size and type, which underpins Article 56(5)'s requirement that key performance indicators and reporting commitments reflect differences in size and capacity."
+      },
+      {
+        "recital_num": 112,
+        "reason": "It details the classification procedure for general-purpose AI models with systemic risks, providing the basis for Article 56(2)(c) and (d) mandating that codes of practice cover the identification and management of such risks."
+      },
+      {
+        "recital_num": 148,
+        "reason": "It defines the AI Office's mission to develop Union expertise and contribute to the application of the Regulation, which is the legislative foundation for its role in encouraging and facilitating codes of practice under Article 56."
+      }
+    ]
+  },
+  "57": {
+    "article_title": "AI regulatory sandboxes",
+    "linked_recitals": [
+      {
+        "recital_num": 8,
+        "reason": "It establishes the overarching objective of fostering AI development and uptake while ensuring a high level of protection, justifying regulatory sandboxes as a tool to balance innovation with regulatory compliance."
+      },
+      {
+        "recital_num": 26,
+        "reason": "It explains the risk-based approach that includes proportionate measures to support innovation, such as regulatory sandboxes, allowing supervised testing and validation of AI systems before market placement."
+      },
+      {
+        "recital_num": 148,
+        "reason": "It outlines the governance framework for coordinating and supporting national authorities, which encompasses the establishment and operation of AI regulatory sandboxes as a means to build capabilities and integrate stakeholders."
+      }
+    ]
+  },
+  "58": {
+    "article_title": "Detailed arrangements for, and functioning of, AI regulatory sandboxes",
+    "linked_recitals": [
+      {
+        "recital_num": 139,
+        "reason": "Explains the core objectives of AI regulatory sandboxes (fostering innovation, ensuring compliance, enhancing legal certainty), which Article 58 operationalises through detailed arrangements."
+      },
+      {
+        "recital_num": 140,
+        "reason": "Provides the specific legal basis under Union data protection law for using personal data in sandboxes for public interest AI development, directly informing the conditions in Article 58(2)(e)."
+      },
+      {
+        "recital_num": 148,
+        "reason": "Establishes the need for a Union governance framework to coordinate national sandboxes and avoid fragmentation, which is the primary purpose of the Commission's implementing acts under Article 58(1)."
+      }
+    ]
+  },
+  "59": {
+    "article_title": "Further processingofpersonaldatafordevelopingcertainAIsystemsinthepublicinterestintheAIregulatory",
+    "linked_recitals": [
+      {
+        "recital_num": 64,
+        "reason": "It establishes the mandatory requirements for high-risk AI systems to mitigate risks, which are referenced in Article 59(b) as the requirements that necessitate personal data processing in the sandbox when other data is insufficient."
+      },
+      {
+        "recital_num": 65,
+        "reason": "It describes the risk-management system for high-risk AI systems, including continuous monitoring of risks, which aligns with Article 59(c)'s requirement for effective monitoring mechanisms to identify and mitigate risks to data subjects' rights during sandbox experimentation."
+      },
+      {
+        "recital_num": 67,
+        "reason": "It emphasizes the vital role of high-quality data for AI system performance and safety, supporting Article 59(b)'s condition that personal data may be processed when anonymised, synthetic, or other non-personal data cannot effectively fulfill the high-risk requirements."
+      },
+      {
+        "recital_num": 139,
+        "reason": "It explicitly outlines the objectives of AI regulatory sandboxes, including fostering innovation and ensuring compliance, and states that competent authorities may allow processing of personal data for the sandbox in accordance with Article 59, providing the overarching legislative rationale for the article."
+      },
+      {
+        "recital_num": 176,
+        "reason": "It defines the Regulation's objectives to protect health, safety, fundamental rights, and environmental protection, which correspond to the public interest areas listed in Article 59(a), justifying why the data processing exception is limited to those areas."
+      }
+    ]
+  },
+  "60": {
+    "article_title": "Testing of high-risk AI systems in real world conditions outside AI regulatory sandboxes",
+    "linked_recitals": [
+      {
+        "recital_num": 22,
+        "reason": "It explains that AI systems should fall within the scope of the Regulation even when not yet placed on the market, thereby justifying the pre-market testing regime under Article 60."
+      },
+      {
+        "recital_num": 124,
+        "reason": "It provides the rationale for Article 60's 'without prejudice' clause regarding Union harmonisation legislation, aiming to minimise burden and avoid duplication in conformity assessment."
+      },
+      {
+        "recital_num": 153,
+        "reason": "It establishes the role of market surveillance authorities as the national competent bodies responsible for approving real-world testing plans under Article 60."
+      }
+    ]
+  },
+  "61": {
+    "article_title": "Informed consent to participate in testing in real world conditions outside AI regulatory sandboxes",
+    "linked_recitals": [
+      {
+        "recital_num": 141,
+        "reason": "Recital 141 provides the legislative rationale for testing in real-world conditions outside AI regulatory sandboxes by emphasizing the need for appropriate guarantees and conditions to protect individuals, which directly informs the informed consent requirement in Article 61."
+      }
+    ]
+  },
+  "62": {
+    "article_title": "Measures for providers and deployers, in particular SMEs, including start-ups",
+    "linked_recitals": [
+      {
+        "recital_num": 138,
+        "reason": "Mandates Member States to establish national AI regulatory sandboxes to facilitate development and testing, which underpins the obligation in Article 62(1)(a) to provide priority access to such sandboxes for SMEs."
+      },
+      {
+        "recital_num": 139,
+        "reason": "Establishes the purpose of AI regulatory sandboxes (fostering innovation, ensuring compliance, enhancing legal certainty), providing the policy basis for Article 62(1)(a)'s priority access measure for SMEs."
+      },
+      {
+        "recital_num": 143,
+        "reason": "Directly explains the rationale for prioritising SME/start-up access to regulatory sandboxes and tailoring awareness activities to their needs, as required by Article 62(1)(a) and (b)."
+      }
+    ]
+  },
+  "63": {
+    "article_title": "Derogations for specific operators",
+    "linked_recitals": [
+      {
+        "recital_num": 109,
+        "reason": "It establishes the principle that compliance obligations should be proportionate to the provider's size and allow simplified compliance for smaller entities, which directly underpins the derogation for microenterprises in Article 63."
+      }
+    ]
+  },
+  "64": {
+    "article_title": "AI Office",
+    "linked_recitals": [
+      {
+        "recital_num": 148,
+        "reason": "It explains that the AI Office's mission is to develop Union expertise and capabilities in AI, providing the direct justification for its establishment and role under Article 64."
+      }
+    ]
+  },
+  "65": {
+    "article_title": "Establishment and structure of the European Artificial Intelligence Board",
+    "linked_recitals": [
+      {
+        "recital_num": 148,
+        "reason": "Explains the need for a governance framework at Union level to coordinate and support the application of the Regulation, build central expertise, and integrate stakeholders, which is the specific purpose of establishing the European Artificial Intelligence Board under Article 65."
+      }
+    ]
+  },
+  "66": {
+    "article_title": "Tasks of the Board",
+    "linked_recitals": [
+      {
+        "recital_num": 27,
+        "reason": "Discusses ethical principles that underpin codes of conduct, which the Board issues recommendations on under task (e)(i)."
+      },
+      {
+        "recital_num": 106,
+        "reason": "Explains provider obligations for general-purpose AI models, providing context for the Board's advice on enforcement of such rules under task (c)."
+      },
+      {
+        "recital_num": 112,
+        "reason": "Details the classification procedure for general-purpose AI models with systemic risk, relevant to the Board's advice on evaluation and review under task (e)(ii)."
+      },
+      {
+        "recital_num": 113,
+        "reason": "Complements recital 112 by explaining the designation of systemic risk models, part of the rules the Board advises on under tasks (c) and (e)(ii)."
+      },
+      {
+        "recital_num": 139,
+        "reason": "Explains the objectives of AI regulatory sandboxes, which the Board helps harmonize administrative practices for under task (d)."
+      },
+      {
+        "recital_num": 141,
+        "reason": "Explains the purpose of testing in real-world conditions, which the Board helps harmonize under task (d)."
+      },
+      {
+        "recital_num": 148,
+        "reason": "Establishes the need for a governance framework to coordinate and support application at national level, core to the Board's overall mission to facilitate consistent and effective application."
+      },
+      {
+        "recital_num": 158,
+        "reason": "Explains the need for coherent application with financial services law, relating to the Board's cooperation with financial authorities under task (h)."
+      }
+    ]
+  },
+  "67": {
+    "article_title": "Advisory forum",
+    "linked_recitals": [
+      {
+        "recital_num": 148,
+        "reason": "It establishes the governance framework's objective to integrate stakeholders in the field of AI at Union level, directly justifying the creation of the advisory forum as a mechanism for balanced stakeholder representation and technical expertise."
+      }
+    ]
+  },
+  "68": {
+    "article_title": "Scientific panel of independent experts",
+    "linked_recitals": [
+      {
+        "recital_num": 148,
+        "reason": "Establishes the need for a governance framework with centralised Union expertise and capabilities, directly justifying the creation of the scientific panel to support the AI Office's enforcement activities."
+      },
+      {
+        "recital_num": 161,
+        "reason": "Clarifies the allocation of supervisory competences for AI systems built on general-purpose AI models to the Commission, providing the rationale for the panel's role in supporting the AI Office's specific tasks on such models."
+      },
+      {
+        "recital_num": 162,
+        "reason": "Explains that the AI Office should monitor implementation of obligations on general-purpose AI models, justifying the panel's advisory and supportive functions for these enforcement tasks."
+      },
+      {
+        "recital_num": 164,
+        "reason": "Details the AI Office's powers to monitor compliance with obligations on general-purpose AI models, directly linking to the panel's tasks of alerting, advising, and contributing to evaluation tools for these models."
+      }
+    ]
+  },
+  "69": {
+    "article_title": "Access to the pool of experts by the Member States",
+    "linked_recitals": [
+      {
+        "recital_num": 148,
+        "reason": "Establishes the governance framework and Union-level expertise (via the AI Office/scientific panel) that Article 69 enables Member States to access."
+      },
+      {
+        "recital_num": 153,
+        "reason": "Explains the key role of Member States in enforcement, justifying the need for them to access expert support under Article 69."
+      },
+      {
+        "recital_num": 175,
+        "reason": "Confers implementing powers on the Commission to set fees, directly underpinning Article 69(2)'s requirement for an implementing act."
+      },
+      {
+        "recital_num": 176,
+        "reason": "Justifies Union-level action (like creating a shared expert pool) because the Regulation's objectives cannot be sufficiently achieved by Member States alone."
+      }
+    ]
+  },
+  "70": {
+    "article_title": "Designation of national competent authorities and single points of contact",
+    "linked_recitals": [
+      {
+        "recital_num": 153,
+        "reason": "Explains the key role of Member States in designating national competent authorities (notifying and market surveillance authorities) to supervise the application and implementation of the Regulation, directly justifying Article 70's core requirement."
+      }
+    ]
+  },
+  "71": {
+    "article_title": "EU database for high-risk AI systems listed in Annex III",
+    "linked_recitals": [
+      {
+        "recital_num": 7,
+        "reason": "Calls for common rules for high-risk AI systems to ensure consistent protection, with the database being a specific rule for transparency and oversight."
+      },
+      {
+        "recital_num": 10,
+        "reason": "Safeguards the fundamental right to data protection, informing the limitation of personal data in the database as per paragraph 5."
+      },
+      {
+        "recital_num": 12,
+        "reason": "Specifically addresses data protection for Union institutions, directly applicable as the Commission acts as controller of the database."
+      },
+      {
+        "recital_num": 148,
+        "reason": "Establishes the governance framework and AI Office's role in developing Union expertise and capabilities, under which the database operates as a central tool."
+      },
+      {
+        "recital_num": 153,
+        "reason": "Highlights the key role of Member States and their market surveillance authorities in application and enforcement, relevant to the collaborative setup and use of the database."
+      },
+      {
+        "recital_num": 176,
+        "reason": "Justifies Union-level action for the database due to the scale and effects of AI systems, which cannot be sufficiently achieved by Member States alone."
+      }
+    ]
+  },
+  "72": {
+    "article_title": "Post-market monitoring by providers and post-market monitoring plan for high-risk AI systems",
+    "linked_recitals": [
+      {
+        "recital_num": 64,
+        "reason": "Mandates that high-risk AI systems comply with mandatory requirements based on a risk-management system, justifying the need for providers to actively monitor compliance after deployment."
+      },
+      {
+        "recital_num": 65,
+        "reason": "Establishes the risk-management system as a continuous, iterative process throughout the AI system's lifecycle, providing the foundational rationale for post-market monitoring as an integral part of that ongoing process."
+      },
+      {
+        "recital_num": 74,
+        "reason": "Specifies that high-risk AI systems must perform consistently throughout their lifecycle with appropriate accuracy, robustness, and cybersecurity, directly underpinning the monitoring objective to evaluate continuous compliance with these performance requirements."
+      }
+    ]
+  },
+  "73": {
+    "article_title": "Reporting of serious incidents",
+    "linked_recitals": [
+      {
+        "recital_num": 64,
+        "reason": "It establishes the general risk-management requirement for high-risk AI systems, which forms the basis for the incident reporting obligation as a key component of continuous risk mitigation."
+      },
+      {
+        "recital_num": 65,
+        "reason": "It explicitly describes the risk-management system as a continuous, iterative process aimed at identifying and mitigating risks throughout the AI system's lifecycle, directly justifying the need for providers to report and investigate serious incidents."
+      },
+      {
+        "recital_num": 153,
+        "reason": "It designates market surveillance authorities as the national competent bodies to receive incident notifications, providing the institutional framework for the reporting obligation in Article 73."
+      }
+    ]
+  },
+  "74": {
+    "article_title": "Market surveillance and control of AI systems in the Union market",
+    "linked_recitals": [
+      {
+        "recital_num": 124,
+        "reason": "Explains the rationale for avoiding duplication in conformity assessment for high-risk AI systems already covered by existing Union harmonisation legislation, which directly informs Article 74(3) and (4) on applicable procedures and authorities."
+      },
+      {
+        "recital_num": 156,
+        "reason": "Justifies the application of Regulation (EU) 2019/1020's market surveillance system to AI systems and the need for authorities to have enforcement powers, providing the basis for Article 74(1) and (5)."
+      },
+      {
+        "recital_num": 158,
+        "reason": "Establishes the governance framework and the role of the AI Office in coordinating enforcement, which contextualises the overall market surveillance structure referenced in Article 74."
+      }
+    ]
+  },
+  "75": {
+    "article_title": "Mutual assistance, market surveillance and control of general-purpose AI systems",
+    "linked_recitals": [
+      {
+        "recital_num": 161,
+        "reason": "It explains that to avoid overlapping competences, the AI Office should supervise AI systems based on general-purpose AI models when the same provider develops both, which is the specific basis for paragraph 1."
+      }
+    ]
+  },
+  "76": {
+    "article_title": "Supervision of testing in real world conditions by market surveillance authorities",
+    "linked_recitals": [
+      {
+        "recital_num": 139,
+        "reason": "Explains the purpose of AI regulatory sandboxes as controlled environments for testing to ensure compliance, which directly contextualises Article 76(2)'s requirement for market surveillance authorities to verify compliance with Article 60 when testing occurs within a sandbox."
+      },
+      {
+        "recital_num": 141,
+        "reason": "Justifies the need for a specific regime for testing in real world conditions (including outside sandboxes) with appropriate guarantees, providing the legislative rationale for Article 76's overall framework of market surveillance authority oversight, powers to suspend/terminate testing, and requirement for modifications."
+      }
+    ]
+  },
+  "77": {
+    "article_title": "Powers of authorities protecting fundamental rights",
+    "linked_recitals": [
+      {
+        "recital_num": 56,
+        "reason": "Recital (56) highlights the importance of fundamental rights in education AI systems, which are high-risk under Annex III, justifying authorities' powers to ensure compliance."
+      },
+      {
+        "recital_num": 59,
+        "reason": "Recital (59) underscores fundamental rights risks in law enforcement AI systems, part of Annex III, necessitating enforcement powers for authorities to access documentation and request testing."
+      },
+      {
+        "recital_num": 60,
+        "reason": "Recital (60) emphasizes fundamental rights protection in migration AI systems (Annex III), supporting the need for authorities to access documentation and organize testing to verify compliance."
+      },
+      {
+        "recital_num": 63,
+        "reason": "Recital (63) clarifies that high-risk classification does not exempt systems from other fundamental rights obligations, so authorities require powers under Article 77 to enforce those laws in relation to high-risk AI systems."
+      },
+      {
+        "recital_num": 93,
+        "reason": "Recital (93) stresses deployers' critical role in protecting fundamental rights for high-risk AI systems, implying the need for authorities to monitor deployers through documentation access."
+      },
+      {
+        "recital_num": 96,
+        "reason": "Recital (96) mandates fundamental rights impact assessments by deployers of certain high-risk AI systems, creating documentation that authorities must access to verify compliance and address risks."
+      }
+    ]
+  },
+  "78": {
+    "article_title": "Confidentiality",
+    "linked_recitals": [
+      {
+        "recital_num": 9,
+        "reason": "Establishes that the Regulation's enforcement rules, including confidentiality, should align with the New Legislative Framework, which incorporates confidentiality protections for market surveillance."
+      },
+      {
+        "recital_num": 59,
+        "reason": "Explains the heightened risks and power imbalances in law enforcement use of AI systems, justifying stringent confidentiality for information exchange about such systems to safeguard security."
+      },
+      {
+        "recital_num": 156,
+        "reason": "Mandates the full application of the market surveillance system under Regulation (EU) 2019/1020, which includes confidentiality obligations, thereby providing the enforcement basis for Article 78."
+      }
+    ]
+  },
+  "79": {
+    "article_title": "Procedure at national level for dealing with AI systems presenting a risk",
+    "linked_recitals": [
+      {
+        "recital_num": 9,
+        "reason": "It provides the legislative rationale for Article 79's alignment with the New Legislative Framework, specifically by incorporating the definition and procedural basis from Regulation (EU) 2019/1020 for 'products presenting a risk' to ensure consistent market surveillance."
+      }
+    ]
+  },
+  "80": {
+    "article_title": "Procedure for dealing with AI systems classified by the provider as non-high-risk in application of Annex III",
+    "linked_recitals": [
+      {
+        "recital_num": 53,
+        "reason": "It clarifies the criteria for when an AI system does not pose significant risk and can be classified as non-high-risk, which are the conditions that market surveillance authorities must evaluate under Article 80."
+      },
+      {
+        "recital_num": 131,
+        "reason": "It mandates the registration of AI systems self-assessed as non-high-risk in the EU database, which market surveillance authorities use to inform their evaluations and checks under Article 80."
+      }
+    ]
+  },
+  "81": {
+    "article_title": "Union safeguard procedure",
+    "linked_recitals": [
+      {
+        "recital_num": 148,
+        "reason": "Establishes the governance framework for coordination and Union-level expertise, underpinning the need for a Union safeguard procedure to ensure consistent enforcement and resolve disputes between national authorities."
+      },
+      {
+        "recital_num": 161,
+        "reason": "Clarifies the need to avoid overlapping competences between Union and national levels, directly contextualising the Commission's role in evaluating and deciding on national measures under the safeguard procedure."
+      },
+      {
+        "recital_num": 176,
+        "reason": "Justifies Union-level action for objectives like internal market functioning and fundamental rights protection, providing the basis for a centralised Commission procedure to oversee national enforcement measures."
+      }
+    ]
+  },
+  "82": {
+    "article_title": "Compliant AI systems which present a risk",
+    "linked_recitals": [
+      {
+        "recital_num": 65,
+        "reason": "It establishes that risk management is a continuous, iterative process throughout the AI system's lifecycle, implying that even compliant systems may require ongoing risk mitigation, which justifies the enforcement mechanism in Article 82."
+      },
+      {
+        "recital_num": 93,
+        "reason": "It explains that deployers can identify potential significant risks not foreseen by the provider, providing the rationale for why a compliant high-risk AI system might still present a risk in practice, necessitating the corrective action procedure in Article 82."
+      }
+    ]
+  },
+  "83": {
+    "article_title": "Formal non-compliance",
+    "linked_recitals": [
+      {
+        "recital_num": 82,
+        "reason": "It mandates that third-country providers appoint an authorised representative to ensure authorities can access necessary compliance information, directly justifying the non-compliance ground in Article 83(1)(f)."
+      },
+      {
+        "recital_num": 131,
+        "reason": "It requires registration in the EU database to increase transparency and facilitate oversight by the Commission and Member States, providing the rationale for the non-compliance ground in Article 83(1)(e)."
+      },
+      {
+        "recital_num": 156,
+        "reason": "It establishes that the market surveillance system under Regulation (EU) 2019/1020 applies to ensure effective enforcement, granting authorities the powers to address formal non-compliance as set out in Article 83."
+      }
+    ]
+  },
+  "84": {
+    "article_title": "Union AI testing support structures",
+    "linked_recitals": [
+      {
+        "recital_num": 9,
+        "reason": "It establishes the consistency with the New Legislative Framework, including Regulation 2019/1020, which provides the tasks for Union AI testing support structures under Article 84(1)."
+      },
+      {
+        "recital_num": 153,
+        "reason": "It designates market surveillance authorities at the national level, which are the entities that can request advice from Union AI testing support structures under Article 84(2)."
+      },
+      {
+        "recital_num": 175,
+        "reason": "It confers implementing powers on the Commission to ensure uniform conditions, justifying the Commission's role in designating Union AI testing support structures."
+      }
+    ]
+  },
+  "85": {
+    "article_title": "Right to lodge a complaint with a market surveillance authority",
+    "linked_recitals": [
+      {
+        "recital_num": 156,
+        "reason": "Recital (156) provides the legislative rationale by explaining that the system of market surveillance from Regulation (EU) 2019/1020 should apply for effective enforcement, thereby justifying why complaints regarding infringements are submitted to market surveillance authorities."
+      }
+    ]
+  },
+  "86": {
+    "article_title": "Right to explanation of individual decision-making",
+    "linked_recitals": [
+      {
+        "recital_num": 53,
+        "reason": "It defines when AI systems do not pose significant risk (i.e., when they do not materially influence decisions), helping to determine the scope of decisions that trigger the right to explanation under Article 86(1)."
+      },
+      {
+        "recital_num": 61,
+        "reason": "It explains why AI systems used in justice are classified as high-risk due to their impact on fundamental rights, thereby justifying why decisions using such systems fall under the right to explanation in Article 86."
+      },
+      {
+        "recital_num": 63,
+        "reason": "It clarifies that high-risk classification does not imply lawfulness under other Union or national law, supporting the exception in Article 86(2) where other laws may restrict the explanation obligation."
+      },
+      {
+        "recital_num": 72,
+        "reason": "It requires transparency for high-risk AI systems to enable deployers to understand them, which is necessary for deployers to fulfill the explanation obligation in Article 86."
+      },
+      {
+        "recital_num": 93,
+        "reason": "It establishes that deployers of high-risk AI systems play a critical role in protecting fundamental rights and understand the concrete use, justifying why they must provide explanations for decisions based on such systems."
+      }
+    ]
+  },
+  "87": {
+    "article_title": "Reporting of infringements and protection of reporting persons",
+    "linked_recitals": []
+  },
+  "88": {
+    "article_title": "Enforcement of the obligations of providers of general-purpose AI models",
+    "linked_recitals": [
+      {
+        "recital_num": 153,
+        "reason": "It establishes the role of market surveillance authorities as national competent authorities, which are referenced in Article 88(2) as entities that may request Commission intervention."
+      },
+      {
+        "recital_num": 175,
+        "reason": "It provides the basis for conferring implementing powers on the Commission to ensure uniform conditions, justifying the exclusive enforcement powers granted in Article 88(1)."
+      }
+    ]
+  },
+  "89": {
+    "article_title": "Monitoring actions",
+    "linked_recitals": [
+      {
+        "recital_num": 116,
+        "reason": "Justifies the reference to adherence to approved codes of practice in paragraph 1 by explaining the AI Office's role in encouraging and facilitating such codes for general-purpose AI models."
+      },
+      {
+        "recital_num": 148,
+        "reason": "Establishes the AI Office's mission to develop Union expertise and capabilities in AI, providing the governance basis for its supervisory and monitoring role under Article 89."
+      },
+      {
+        "recital_num": 162,
+        "reason": "Explains that the AI Office should have powers to monitor effective implementation and investigate infringements by providers of general-purpose AI models, directly justifying the monitoring actions in paragraph 1."
+      }
+    ]
+  },
+  "90": {
+    "article_title": "Alerts of systemic risks by the scientific panel",
+    "linked_recitals": [
+      {
+        "recital_num": 97,
+        "reason": "Defines 'general-purpose AI models' and distinguishes them from AI systems, establishing the scope of models to which the alert mechanism in Article 90 applies."
+      },
+      {
+        "recital_num": 112,
+        "reason": "Explains the procedure for classifying a general-purpose AI model as having systemic risk, directly linking to the condition in Article 90(1)(b) where a model 'meets the conditions referred to in Article 51'."
+      },
+      {
+        "recital_num": 148,
+        "reason": "Establishes the governance framework and central role of the AI Office in building Union expertise and coordinating the application of the Regulation, providing the context for why the AI Office is the recipient of alerts and the body that may act upon them."
+      },
+      {
+        "recital_num": 162,
+        "reason": "Confers the powers of supervision and enforcement for providers of general-purpose AI models to the Commission via the AI Office, justifying the AI Office's authority to investigate following a qualified alert as per Article 90(2)."
+      }
+    ]
+  },
+  "91": {
+    "article_title": "Power to request documentation and information",
+    "linked_recitals": [
+      {
+        "recital_num": 101,
+        "reason": "Explains the particular role and responsibility of general-purpose AI model providers along the AI value chain, justifying the need for transparency measures and documentation to enable downstream providers to understand model capabilities and comply with obligations, which underpins the Commission's power to request such documentation for compliance assessment."
+      },
+      {
+        "recital_num": 148,
+        "reason": "Establishes the governance framework and the AI Office's mission to develop Union expertise and capabilities in AI, providing the basis for the AI Office's role in initiating structured dialogue and supporting the Commission's supervisory and enforcement actions under Article 91."
+      },
+      {
+        "recital_num": 164,
+        "reason": "Directly states that the AI Office should be able to monitor compliance and investigate infringements by requesting documentation and information from providers of general-purpose AI models, explicitly linking to the powers granted in Article 91."
+      }
+    ]
+  },
+  "92": {
+    "article_title": "Power to conduct evaluations",
+    "linked_recitals": [
+      {
+        "recital_num": 110,
+        "reason": "Defines systemic risks, providing the substantive basis for investigations into general-purpose AI models with systemic risk under Article 92(1)(b)."
+      },
+      {
+        "recital_num": 149,
+        "reason": "Establishes the Board's advisory role, and Article 92 requires the AI Office to consult the Board before conducting evaluations."
+      },
+      {
+        "recital_num": 163,
+        "reason": "Explains that the scientific panel may provide qualified alerts to the AI Office, which trigger follow-up investigations under Article 92(1)(b)."
+      }
+    ]
+  },
+  "93": {
+    "article_title": "Power to request measures",
+    "linked_recitals": [
+      {
+        "recital_num": 97,
+        "reason": "It defines 'general-purpose AI models', establishing the scope of providers subject to the Commission's enforcement powers under Article 93."
+      },
+      {
+        "recital_num": 106,
+        "reason": "It explains the obligations in Articles 53 and 54 (copyright compliance and transparency) that the Commission may request providers to comply with under Article 93(a)."
+      },
+      {
+        "recital_num": 112,
+        "reason": "It details the classification and notification procedure for systemic risk, providing the context for the Commission's power to request mitigation measures under Article 93(b) following an evaluation."
+      },
+      {
+        "recital_num": 148,
+        "reason": "It establishes the AI Office's role in building Union expertise and coordinating application, justifying its initiation of structured dialogue with providers as per Article 93(2)."
+      },
+      {
+        "recital_num": 161,
+        "reason": "It clarifies responsibilities and competences for AI systems built on general-purpose AI models, avoiding overlaps and contextualizing the Commission's supervisory role in Article 93."
+      }
+    ]
+  },
+  "94": {
+    "article_title": "Procedural rights of economic operators of the general-purpose AI model",
+    "linked_recitals": [
+      {
+        "recital_num": 162,
+        "reason": "Recital 162 assigns supervision and enforcement powers over general-purpose AI model providers to the Commission, creating the need for procedural rights during investigations, which Article 94 addresses by applying Regulation 2019/1020's provisions."
+      }
+    ]
+  },
+  "95": {
+    "article_title": "Codes of conduct for voluntary application of specific requirements",
+    "linked_recitals": [
+      {
+        "recital_num": 135,
+        "reason": "It establishes the principle of encouraging codes to facilitate effective implementation of the Regulation, which underpins Article 95's requirement to encourage codes of conduct for voluntary application of requirements to non-high-risk AI systems."
+      }
+    ]
+  },
+  "96": {
+    "article_title": "Guidelines from the Commission on the implementation of this Regulation",
+    "linked_recitals": [
+      {
+        "recital_num": 9,
+        "reason": "It emphasizes the need for consistency with Union harmonisation legislation, which is a specific element the guidelines must address under Article 96(1)(e)."
+      },
+      {
+        "recital_num": 64,
+        "reason": "It establishes the risk-management system as a core requirement for high-risk AI systems, which the guidelines must elaborate under Article 96(1)(a)."
+      },
+      {
+        "recital_num": 65,
+        "reason": "It details the continuous and iterative process of risk-management, further specifying the requirements for high-risk systems that guidelines should cover."
+      },
+      {
+        "recital_num": 74,
+        "reason": "It sets expectations for accuracy, robustness, and cybersecurity performance metrics of high-risk AI systems, which guidelines need to address for practical implementation."
+      },
+      {
+        "recital_num": 121,
+        "reason": "It highlights the key role of harmonised standards for compliance, justifying why guidelines must take due account of such standards as per Article 96."
+      },
+      {
+        "recital_num": 128,
+        "reason": "It defines and explains the concept of substantial modification, directly informing the guidelines on that topic under Article 96(1)(c)."
+      },
+      {
+        "recital_num": 132,
+        "reason": "It introduces specific transparency obligations for AI systems interacting with natural persons, which the guidelines under Article 96(1)(d) must implement."
+      },
+      {
+        "recital_num": 134,
+        "reason": "It addresses deep fakes and disclosure requirements, part of the transparency obligations that guidelines should cover."
+      },
+      {
+        "recital_num": 135,
+        "reason": "It explains the Commission's role in encouraging codes of practice for transparency, providing rationale for guidelines on detecting and labelling AI-generated content."
+      },
+      {
+        "recital_num": 136,
+        "reason": "It links transparency obligations to other EU law (Regulation 2022/2065), showing the need for guidelines to ensure coherent enforcement."
+      },
+      {
+        "recital_num": 148,
+        "reason": "It establishes the governance framework and the Commission's role in developing expertise, which includes issuing guidelines, and emphasizes considering stakeholder needs like SMEs."
+      }
+    ]
+  },
+  "97": {
+    "article_title": "Exercise of the delegation",
+    "linked_recitals": []
+  },
+  "98": {
+    "article_title": "Committee procedure",
+    "linked_recitals": [
+      {
+        "recital_num": 175,
+        "reason": "It explains that implementing powers are conferred on the Commission to ensure uniform conditions for implementation, and that these powers should be exercised in accordance with Regulation (EU) No 182/2011, which is the legal basis for the committee procedure established in Article 98."
+      }
+    ]
+  },
+  "99": {
+    "article_title": "Penalties",
+    "linked_recitals": [
+      {
+        "recital_num": 156,
+        "reason": "It establishes the enforcement framework, stating that market surveillance authorities should have all enforcement powers under Regulation (EU) 2019/1020 to ensure appropriate and effective enforcement of the Regulation, which directly justifies Article 99's requirement for Member States to lay down rules on penalties and other enforcement measures."
+      }
+    ]
+  },
+  "100": {
+    "article_title": "Administrative fines on Union institutions, bodies, offices and agencies",
+    "linked_recitals": []
+  },
+  "101": {
+    "article_title": "Fines for providers of general-purpose AI models",
+    "linked_recitals": [
+      {
+        "recital_num": 97,
+        "reason": "Defines 'general-purpose AI models' and distinguishes them from AI systems, establishing the scope of entities subject to fines under Article 101."
+      },
+      {
+        "recital_num": 109,
+        "reason": "Justifies that compliance obligations and enforcement (including fines) for general-purpose AI model providers should be commensurate and proportional to the provider's size, directly informing the proportionality principle in Article 101(1) and (3)."
+      },
+      {
+        "recital_num": 112,
+        "reason": "Explains the procedure and rationale for classifying a general-purpose AI model as having systemic risk, which is directly linked to the specific infringement in Article 101(1)(d) concerning failure to provide access for evaluation of such models."
+      }
+    ]
+  },
+  "102": {
+    "article_title": "Amendment to Regulation (EC) No 300/2008",
+    "linked_recitals": [
+      {
+        "recital_num": 9,
+        "reason": "It establishes that harmonised rules for high-risk AI systems should be consistent with the New Legislative Framework and without prejudice to other Union safety laws, providing the basis for integrating AI Act requirements into existing sectoral regulations like Regulation (EC) No 300/2008."
+      }
+    ]
+  },
+  "103": {
+    "article_title": "Amendment to Regulation (EU) No 167/2013",
+    "linked_recitals": [
+      {
+        "recital_num": 78,
+        "reason": "Explains that the AI Act's conformity assessment procedures should apply in relation to other Union legislation for products with digital elements classified as high-risk AI systems, establishing a precedent for integrating AI Act requirements into sector-specific regulations, which justifies amending Regulation 167/2013 to ensure safety components comply with AI Act standards."
+      },
+      {
+        "recital_num": 118,
+        "reason": "Highlights that the AI Act complements obligations in other regulations, such as the Digital Services Act, by imposing requirements on AI systems embedded in services, which provides the legislative rationale for amending other regulations like Regulation 167/2013 to take AI Act requirements into account for safety components, ensuring consistency and avoiding regulatory gaps."
+      }
+    ]
+  },
+  "104": {
+    "article_title": "Amendment to Regulation (EU) No 168/2013",
+    "linked_recitals": [
+      {
+        "recital_num": 3,
+        "reason": "It identifies the risk of internal market fragmentation from diverging national rules, and Article 104 addresses this by ensuring consistent application of AI Act requirements in sectoral regulations like vehicle approval."
+      },
+      {
+        "recital_num": 64,
+        "reason": "It articulates that mandatory requirements for high-risk AI systems are essential to mitigate risks and ensure trustworthiness, and Article 104 ensures these requirements are taken into account for AI systems classified as safety components."
+      },
+      {
+        "recital_num": 176,
+        "reason": "It establishes the AI Act's objective to ensure a high level of health and safety protection, which justifies incorporating its requirements into other regulatory frameworks for AI systems as safety components."
+      }
+    ]
+  },
+  "105": {
+    "article_title": "Amendment to Directive 2014/90/EU",
+    "linked_recitals": [
+      {
+        "recital_num": 64,
+        "reason": "It explains the purpose of imposing mandatory requirements on high-risk AI systems to mitigate risks to health, safety, and fundamental rights, which are the requirements the Commission must consider under Article 105."
+      },
+      {
+        "recital_num": 65,
+        "reason": "It describes the risk-management system as a continuous process for identifying and mitigating risks, which is a key requirement in Chapter III, Section 2, referenced in Article 105."
+      },
+      {
+        "recital_num": 74,
+        "reason": "It sets out the expected level of performance metrics for high-risk AI systems, including accuracy, robustness, and cybersecurity, which are part of the requirements the Commission must take into account under Article 105."
+      }
+    ]
+  },
+  "106": {
+    "article_title": "Amendment to Directive (EU) 2016/797",
+    "linked_recitals": [
+      {
+        "recital_num": 26,
+        "reason": "It establishes the risk-based approach and the necessity of requirements for high-risk AI systems, which underpins the Chapter III, Section 2 requirements that Article 106 refers to."
+      },
+      {
+        "recital_num": 78,
+        "reason": "It explains that the AI Act's requirements should apply in relation to other Union harmonisation legislation for high-risk AI systems, providing the rationale for amending Directive 2016/797 to incorporate those requirements for safety components."
+      }
+    ]
+  },
+  "107": {
+    "article_title": "Amendment to Regulation (EU) 2018/858",
+    "linked_recitals": [
+      {
+        "recital_num": 9,
+        "reason": "It emphasizes that harmonised rules for high-risk AI systems should be consistent with the New Legislative Framework, justifying the amendment to Regulation 2018/858 to ensure alignment with AI Act requirements for safety components."
+      },
+      {
+        "recital_num": 46,
+        "reason": "It establishes that high-risk AI systems must comply with mandatory requirements to avoid unacceptable risks, implying that safety components in vehicles, as high-risk AI systems, must meet these standards."
+      },
+      {
+        "recital_num": 64,
+        "reason": "It explains that mandatory requirements for high-risk AI systems are necessary to mitigate risks and ensure trustworthiness, which is critical for safety components in vehicles."
+      },
+      {
+        "recital_num": 65,
+        "reason": "It details the risk-management system for high-risk AI systems, a key element of Chapter III, Section 2, that must be taken into account when adopting delegated acts for safety components."
+      }
+    ]
+  },
+  "108": {
+    "article_title": "Amendments to Regulation (EU) 2018/1139",
+    "linked_recitals": [
+      {
+        "recital_num": 49,
+        "reason": "It explicitly states that high-risk AI systems which are safety components of products falling under Regulation (EU) 2018/1139 must comply with the requirements of this Regulation, providing the direct justification for amending that Regulation to ensure its acts take those requirements into account."
+      }
+    ]
+  },
+  "109": {
+    "article_title": "Amendment to Regulation (EU) 2019/2144",
+    "linked_recitals": [
+      {
+        "recital_num": 64,
+        "reason": "Explains the mandatory requirements for high-risk AI systems to mitigate risks to health and safety, which are the requirements under Chapter III, Section 2 that must be taken into account for safety components in vehicle regulation."
+      },
+      {
+        "recital_num": 65,
+        "reason": "Details the risk-management system as a core element of the requirements for high-risk AI systems, providing the specific content that should be considered in implementing acts for safety components."
+      },
+      {
+        "recital_num": 77,
+        "reason": "Illustrates the principle of integrating AI Act requirements with other Union regulations for high-risk AI systems, justifying why similar integration is needed for safety components under Regulation (EU) 2019/2144."
+      }
+    ]
+  },
+  "110": {
+    "article_title": "Amendment to Directive (EU) 2020/1828",
+    "linked_recitals": []
+  },
+  "111": {
+    "article_title": "AIsystemsalreadyplacedonthemarketorputintoserviceandgeneral-purposeAImodelsalreadyplacedonthe",
+    "linked_recitals": [
+      {
+        "recital_num": 100,
+        "reason": "It defines general-purpose AI models and systems, clarifying the scope of 'general-purpose AI models' in Article 111(3) and justifying the separate compliance deadline for such models based on their integrated nature."
+      },
+      {
+        "recital_num": 109,
+        "reason": "It establishes that compliance obligations for general-purpose AI models should be proportional to the provider's type, supporting the specific compliance deadline in Article 111(3) as a proportionate transitional measure."
+      },
+      {
+        "recital_num": 128,
+        "reason": "It explains the concept of substantial modification, which underpins the 'significant changes' condition in Article 111(2), providing the rationale for why only high-risk AI systems with significant design changes after the deadline need to comply."
+      }
+    ]
+  },
+  "112": {
+    "article_title": "Evaluation and review",
+    "linked_recitals": [
+      {
+        "recital_num": 148,
+        "reason": "Justifies the evaluation of the AI Office's functioning and competences and the governance system's effectiveness by establishing the need for a Union-level framework to coordinate expertise and ensure effective implementation."
+      },
+      {
+        "recital_num": 165,
+        "reason": "Justifies the evaluation of voluntary codes of conduct for non-high-risk AI systems by encouraging their development to foster the uptake of ethical and trustworthy AI beyond mandatory requirements."
+      }
+    ]
+  },
+  "113": {
+    "article_title": "Entry into force and application",
+    "linked_recitals": [
+      {
+        "recital_num": 179,
+        "reason": "Explains the staggered application timeline, justifying the early application of prohibitions and general provisions from February 2025 due to unacceptable risks, and the later application of other chapters to allow time for governance and enforcement setup."
+      }
+    ]
+  }
+}

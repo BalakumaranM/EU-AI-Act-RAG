@@ -9,7 +9,7 @@
         "annex_num": "I",
         "annex_num_int": 1,
         "annex_title": "List of Union harmonisation legislation",
-        "annex_purpose": "List of Union harmonisation legislation that triggers high-risk classification (Art. 6)",
+        "annex_purpose": "Techniques that qualify as AI under Article 3(1)",
         "page_num": 124,
         "referenced_articles": [],
         "summary": ""
@@ -26,7 +26,7 @@
         "annex_num": "II",
         "annex_num_int": 2,
         "annex_title": "List of criminal offences referred to in Article 5(1), first subparagraph, point (h)(iii)",
-        "annex_purpose": "List of criminal offences enabling real-time remote biometric ID (Art. 5)",
+        "annex_purpose": "List of EU harmonisation laws whose products are covered by Chapter III Section 2",
         "page_num": 126,
         "referenced_articles": [
           "Article 5"
@@ -45,7 +45,7 @@
         "annex_num": "III",
         "annex_num_int": 3,
         "annex_title": "High-risk AI systems referred to in Article 6(2)",
-        "annex_purpose": "Master list of high-risk AI use-case areas (Art. 6(2)) — biometrics, critical infrastructure, education, employment, law enforcement, migration, administration of justice",
+        "annex_purpose": "Master list of high-risk AI use-case areas (Art. 6(2))",
         "page_num": 127,
         "referenced_articles": [
           "Article 6"
@@ -88,7 +88,7 @@
         "annex_num": "VI",
         "annex_num_int": 6,
         "annex_title": "Conformity assessment procedure based on internal control",
-        "annex_purpose": "Conformity assessment procedure — internal control (Art. 43)",
+        "annex_purpose": "Conformity assessment — internal control (Art. 43)",
         "page_num": 133,
         "referenced_articles": [
           "Article 17",
@@ -108,7 +108,7 @@
         "annex_num": "VII",
         "annex_num_int": 7,
         "annex_title": "Conformity based on an assessment of the quality management system and an assessment of the",
-        "annex_purpose": "Conformity assessment procedure — quality management system + technical documentation (Art. 43)",
+        "annex_purpose": "Conformity assessment — quality management system + technical documentation (Art. 43)",
         "page_num": 134,
         "referenced_articles": [
           "Article 17",
@@ -187,7 +187,7 @@
         "annex_num": "XI",
         "annex_num_int": 11,
         "annex_title": "Technical documentation referred to in Article 53(1), point (a) — technical documentation for",
-        "annex_purpose": "Technical documentation for general-purpose AI model providers to submit to AI Office (Art. 53)",
+        "annex_purpose": "Technical documentation for GPAI model providers (Art. 53)",
         "page_num": 141,
         "referenced_articles": [
           "Article 53"
@@ -206,7 +206,7 @@
         "annex_num": "XII",
         "annex_num_int": 12,
         "annex_title": "Transparency information referred to in Article 53(1), point (b) — technical documentation for",
-        "annex_purpose": "Transparency information for general-purpose AI model providers to downstream providers (Art. 53)",
+        "annex_purpose": "Transparency information for GPAI model providers to downstream providers (Art. 53)",
         "page_num": 143,
         "referenced_articles": [
           "Article 53"
@@ -225,7 +225,7 @@
         "annex_num": "XIII",
         "annex_num_int": 13,
         "annex_title": "Criteriaforthedesignationofgeneral-purposeAImodelswithsystemicriskreferredtoinArticle51",
-        "annex_purpose": "Criteria for designating general-purpose AI models with systemic risk (Art. 51)",
+        "annex_purpose": "Criteria for designating GPAI models with systemic risk (Art. 51)",
         "page_num": 144,
         "referenced_articles": [
           "Article 51"
